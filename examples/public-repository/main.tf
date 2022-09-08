@@ -14,7 +14,7 @@ module "repository" {
   ]
 
   name               = "my-public-repository"
-  description        = "A description of the bks repository."
+  description        = "A description of the bks bks repository."
   homepage_url       = "https://github.com/mineiros-io"
   visibility         = "public"
   has_issues         = true
