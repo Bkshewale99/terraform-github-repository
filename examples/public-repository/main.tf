@@ -13,8 +13,8 @@ module "repository" {
     module.team
   ]
 
-  name               = "my-public-repository-my"
-  description        = "A description of the repository."
+  name               = "my-public-repository"
+  description        = "A description of the bks repository."
   homepage_url       = "https://github.com/mineiros-io"
   visibility         = "public"
   has_issues         = true
